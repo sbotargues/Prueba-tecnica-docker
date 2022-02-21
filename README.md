@@ -15,4 +15,6 @@ También he adjuntado el mismo archivo en JSON (politicians.json) por si da alg�
 Funcionamiento de la tabla:
  - Si el filtro no trae algo es porque hay que presionar sobre el titulo de la columna para que ordene de más a menos o de menos a más.
 
+---
+
 Sergi Botargues Laguna
