@@ -1,8 +1,8 @@
 # PRUEBA TÉCNICA NEWTRAL
 ---
 
-Ejecute `make build` desde la raíz para construir contenedores.
-Ejecute `make run` desde la raíz para ejecutar contenedores con docker-compose
+Ejecute `make build` desde la raíz para construir los contenedores.
+Ejecute `make run` desde la raíz para ejecutar los contenedores con docker-compose
 
 ---
 
