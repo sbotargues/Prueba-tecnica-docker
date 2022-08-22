@@ -1,4 +1,4 @@
-# PRUEBA TÉCNICA NEWTRAL
+# PRUEBA TÉCNICA
 ---
 
 Ejecute `make build` desde la raíz para construir los contenedores.
